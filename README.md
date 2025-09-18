@@ -6,23 +6,6 @@
 
 ---
 
-## 🛠 Tech Stack & Tools  
-- Frontend: **HTML, CSS, JavaScript, React, Next.js**  
-- Backend: **Node.js, Express**  
-- Database: **PostgreSQL, Firebase**  
-- DevOps: **Docker, Git, GitHub**  
-- Others: **pgAdmin, Firebase Auth, REST API**  
-
----
-
-## 🚀 Projects & Learning  
-- 🛒 **E-commerce Website** → Full-stack project with Next.js + Node.js + Postgres (Dockerized)  
-- 📱 **Mobile Web Project** → Built with React Native + Firebase for classroom management  
-- 🐶 **   Dogy Training  ** → Step-by-step training project with visual aids  
-
-
----
-
 ## 🌱 What I'm focusing on right now  
 - Becoming a **Full-Stack Developer**  
 - Building **mini-projects** (portfolio website, e-commerce site)  
