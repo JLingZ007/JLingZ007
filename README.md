@@ -15,7 +15,7 @@
 ---
 
 ## 📫 Connect with me  
-- GitHub: [Jirawat-MySpace](https://github.com/JLingZ007)  
+- GitHub: (https://github.com/JLingZ007)  
  
 
 ---
